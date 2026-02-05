@@ -26,7 +26,8 @@ Add to your `pubspec.yaml`:
 dependencies:
   flutter_wifi_scan:
     git:
-      url: https://github.com/meisydevlab/flutter_wifi_scan.git
+      url: https://github.com/iqbalnova/flutter_wifi_scan.git
+      ref: 0.0.1
 ```
 
 ## Android Requirements
@@ -449,4 +450,4 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ## Credits
 
-Built with ❤️ by [Meisy Dev Lab](https://github.com/meisydevlab)
+Built with ❤️ by [Meisy Dev Lab](https://github.com/iqbalnova)
