@@ -188,7 +188,7 @@ class FlutterWifiScanPlugin : FlutterPlugin, ActivityAware, MethodChannel.Method
     }
 
     private fun canScan(): Boolean {
-        return isWiFiEnabled() && isLocationEnabled() && hasPermissions()
+        return isLocationEnabled() && hasPermissions()
     }
 
     // Scanning logic
